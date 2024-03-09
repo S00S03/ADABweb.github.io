@@ -1,0 +1,13 @@
+.correos{
+    padding: 6px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+input, textarea{
+    margin: 4px;
+}
+button{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
