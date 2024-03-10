@@ -20,6 +20,7 @@ h1 {
 
 .contenedor-galeria ul {
     width: 2000px;
+    margin-left: -3%;
 }
 
 .contenedor-galeria li {
